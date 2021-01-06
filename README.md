@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello there!
+
+My name is David Guevara and I am a Computer Science student from Costa Rica. I use [`neovim`](https://github.com/neovim/neovim) as my main editor and you can see my configuration files [here](https://github.com/datwaft/neovim).
+
+---
+
+## How to reach me
+
+You can contact me using my email: datwaftx@gmail.com.
 
 <!--
 **datwaft/datwaft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
